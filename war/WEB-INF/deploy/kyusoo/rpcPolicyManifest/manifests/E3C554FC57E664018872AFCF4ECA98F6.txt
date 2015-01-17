@@ -1,0 +1,2 @@
+serviceClass: kyusoo.kim.client.GreetingService
+path: C194655E091C5888139F3653DEF1A070.gwt.rpc

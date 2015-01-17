@@ -1,0 +1,175 @@
+storyjs_jsonp_data = {
+	"timeline":
+	{
+		"headline":"History of Kyusoo",
+		"type":"default",
+		"text":"kyusoo_kim@naver.com",
+		"date": [			
+			{ 	"startDate":"1987,3,5",
+				"endDate":"1987,3,5",
+				"headline":"출생.",
+				"text":'<p>1987년 3월 5일 19시경, 신월동 <a href="http://map.naver.com/?dlevel=12&pinType=site&pinId=18841015&x=126.8332989&y=37.5363450&enc=b64">박영동산부인과</a>에서 탄생.</p>\
+				        <p>어머니는 보호자 없이 홀로 병원에 시크하게 걸어가서 출산.<br>\
+				                   본인은 이러한 유전자를 물려받아 훗날 보호자 없이 라식 수술 및 내시경을 아무 거리낌 없이 하게 됨. </p>\
+				        <p>물고기자리, 토끼띠, B형</p>',
+				"tag":"Event",
+				"asset":
+				{	
+					"credit":"Kyusoo Kim",
+					"caption":"Birth"
+				}
+			},
+			{ 	"startDate":"1988",
+				"headline":"서울 88올림픽",
+				"text":'<p>본인이 똥 오줌 못가릴 나이.<br>당연히 기억 안난다.</p>',
+				"tag":"Event",
+				"asset":
+				{	
+					"media":"timeline/img/88.jpg",
+					"credit":"88 올림픽",					
+				}
+			},
+			{ 	"startDate":"1992,3",
+				"endDate":"1994,2",
+				"headline":"유치원",
+				"text":"<p>Kindergarten attached Sinwon Elementary School</p>\
+						<p>1992년 : 진달래반<br>1993년 : 개나리반</p>",
+				"tag":"Career",
+				"asset":
+				{
+					"media":"http://doopedia.co.kr/_upload/comm/travelkorea/200809/09/800_1220968402560316.jpg",
+					"credit":"신원초등학교 병설유치원",
+					"caption":"School"
+				}
+			},
+			{ 	"startDate":"1992,12",
+				"endDate":"1993,1",
+				"headline":"고래",
+				"text":"<p>남자로 태어나 가장 많이 눈물을 흘린 날 같다.</p><p>남자의 고통을 알게 된 나이 6살.</p>",
+				"tag":"Event",
+				"asset":
+				{
+					"media":"timeline/img/whale.png",
+					"credit":"",
+					"caption":"말 할수 없는 비밀"
+				}
+			},
+			{ 	"startDate":"1993,3",
+				"endDate":"1993,9",
+				"headline":"교통사고",
+				"text":"친구들과 얼음 땡 하고 놀다가 골목길을 튀어 나간 순간, 어떤 아주머니가 운전하는 르망과 정면 충돌.<br>\
+				 		공중에 떠있던 순간에 길진 않았지만 7년 인생 기억이 주마등 처럼 스쳐 지나갔다.<br>\
+				 		<p>아... 그래 나쁘지 않은 삶이었어.</p>",
+				"tag":"Event",
+				"asset":
+				{
+					"media":"timeline/img/car.jpg",
+					"credit":"대우 르망",
+					"caption":"사건 사고"
+				}
+			},
+			{ 	"startDate":"1994,3",
+				"endDate":"2000,2",
+				"headline":"초등학교",
+				"text":"Elementary School Life",
+				"tag":"Career",
+				"asset":
+				{
+					"media":"http://doopedia.co.kr/_upload/comm/travelkorea/200809/09/800_122096840228410.jpg",
+					"credit":"신원초등학교",
+					"caption":"School"
+				}
+			},
+			{ 	"startDate":"1994,10",
+				"endDate":"1999,8",
+				"headline":"Piano",
+				"text":"Play the piano",
+				"tag":"Activity",
+				"asset":
+				{	
+					"media":"http://images.forwallpaper.com/files/thumbs/preview/70/701360__wallpaper-piano-wallpapers_p.jpg",
+					"credit":'My friend',
+					"caption":"Musical Instrument"
+				}
+			},
+			{ 	"startDate":"1996,2,14",
+				"endDate":"1996,2,14",
+				"headline":"Valentine Day",
+				"text":"<p>초딩 2학년. 같은 반 여학생으로부터 초콜릿을 받았으나<br>\
+						정작 본인은 무슨 날인지 몰랐음.<br>얘가 나한테 이런걸 왜 주나 싶었음. <br>\
+						본인은 물론, 주변인들에게 구전 동화 처럼 전해져 내려오는 이야기</p>",
+				"tag":"Event",
+				"asset":
+				{	
+					"media":"timeline/img/chocolate.jpg",
+					"credit":'',
+					"caption":"누나가 다 뻇어 먹었다"
+				}
+			},
+			{ 	"startDate":"2000,3",
+				"endDate":"2003,2",
+				"headline":"중학교",
+				"text":"Middle School Life",
+				"tag":"Career",
+				"asset":
+				{					
+					"media":"http://doopedia.co.kr/_upload/comm/travelkorea/200802/20/800_1203500976761111.jpg",
+					"credit":'양서중학교',
+					"caption":"School"
+				}
+			},
+			{ 	"startDate":"2003,3",
+				"endDate":"2006,2",
+				"headline":"고등학교",
+				"text":"High School Life",
+				"tag":"Career",
+				"asset":
+				{					
+					"media":"timeline/img/high_school.jpg",
+					"credit":'백암고등학교',
+					"caption":"School"
+				}
+			},
+			{ 	"startDate":"2006,3",
+				"endDate":"2013,2",
+				"headline":"대학교",
+				"text":"Major : Computer Engineering",
+				"tag":"Career",
+				"asset":
+				{					
+					"media":"timeline/img/konkuk_univ.jpg",
+					"credit":'건국대학교',
+					"caption":"School"
+				}
+			},
+			{ 	"startDate":"2007,11,26",
+				"endDate":"2010,1,18",
+				"headline":"대한민국 공군",
+				"text":"<p>Republic of Korea Airforce<br>\
+						   A-658/제20 전투비행단/항공관제레이더 정비<br></p>\
+						<p>주 업무 : 커피 타기, 라면끓이기, 거미줄 제거<br>\
+						       부 업무 : 레이더 로그 추출 및 분석<br>\
+						       시즌 업무 : 제초 and 제설</p>",
+				"tag":"Career",
+				"asset":
+				{					
+					"media":"timeline/img/airforce.jpg",
+					"credit":'대한민국공군',
+					"caption":"Airforce"
+				}
+			},
+			{ 	"startDate":"2010,3",
+				"endDate":"2010,5",
+				"headline":"조주기능사",
+				"text":"I'm a bartender",
+				"tag":"Activity",
+				"asset":
+				{					
+					"media":"timeline/img/B-52.jpg",
+					"credit":'B-52',
+					"caption":"Cocktail"
+				}
+			},	
+		]
+	}
+}

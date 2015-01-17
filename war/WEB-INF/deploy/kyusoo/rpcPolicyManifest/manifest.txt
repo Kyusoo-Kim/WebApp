@@ -1,0 +1,3 @@
+# Module kyusoo
+# RPC service class, partial path of RPC policy file
+kyusoo.kim.client.GreetingService, C194655E091C5888139F3653DEF1A070.gwt.rpc
